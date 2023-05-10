@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>mY first wed</title>
+</head>
+<body>
+    <h1 style="color: rgb(99, 100, 50); background-color: cyan; font-family:verdana; font-size: 500%;
+    text-align: center;">Heading</h1>
+    <p style="font-size: 300%;">this is a paragraph</p>
+    <p>this is another paragraph</p>
+
+
+    <a href="https:www.rmit.edu.vn"> RMIT university </a>
+    <a href="http://">
+     <p>
+        <img src=" https://www.redwolf.in/image/catalog/stickers/tom-and-jerry-duo-sticker-india.jpg " alt="banner for RMIT wedsite">
+     <p>
+    <a>
+    <ul>
+        <li>Banana</li>
+        <li>Apples</li>
+        <li>Melon</li>
+    </ul>
+    <ol>
+        <li>Pikachu</li>
+        <li>Charmelon</li>
+        <li>Twackey</li>
+    </ol>
+
+    <table style="border: 1px solid black;">       
+        <tr style="border: 1px solid black;">
+          <tr style="border: 1px solid black;">Country</tr>
+          <tr style="border: 1px solid black;">FootballClub</tr>
+          <tr style="border: 1px solid black;">Player</tr>
+       </tr>
+       <tr style="border: 1px solid black;">
+           <td style="border: 1px solid black;">England</td>
+           <td style="border: 1px solid black;">ManCity</td>
+           <td style="border: 1px solid black;">KDB</td>
+       </tr>
+    </table>
+</body>
+</html>
